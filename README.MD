@@ -2,7 +2,8 @@
 Sushant Vema, Spring 2023
 
 ## Objective
-This repo contains my EDA for the project checkpoint. 
+This repo contains my EDA for the project checkpoint. Current initiatives:
+1. Timeseries analysis of asthma mortalities over time in a certain state, with a certain stratification, and using either un-normalized/crude/age-adjusted metrics.
 
 ## Running my code
 Use the terminal or an Anaconda Prompt for the following steps:
